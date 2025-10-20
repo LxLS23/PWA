@@ -1,7 +1,7 @@
 {
     "name": "My PWA",
     "start_name":"PWA",
-    "start_url":"/",
+    "start_url":"/lxls23.github.io/PWA/",
     "display":"standalone",
     "background_color":"#FFE6EA",
     "theme_color":"#FF5C77",
