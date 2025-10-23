@@ -5,7 +5,7 @@
     "display":"standalone",
     "background_color":"#FFE6EA",
     "theme_color":"#FF5C77",
-    "description":"Application for Probe PWA",
+    "description":"Application probing PWA",
     "icons":[
         {
             "src":"img/192.png",
